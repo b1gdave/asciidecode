@@ -1,5 +1,5 @@
 # asciidecode/encode
-Emcode and Decode an ascii list of int into ascii
+Encode and Decode an ascii list of int into ascii
 
 ## Examples
 
