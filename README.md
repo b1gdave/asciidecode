@@ -1,9 +1,16 @@
-# asciidecode
-Decode an ascii list of int into ascii
+# asciidecode/encode
+Emcode and Decode an ascii list of int into ascii
 
-## usage 
+## Examples
 
+### asciiencode
 ```
-asciidecode 72,101,108,108,111,32,87,111,114,108,100
+$ asciiencode "Hello World"
+72,101,108,108,111,32,87,111,114,108,100
+```
+
+### asciidecode
+```
+$ asciidecode 72,101,108,108,111,32,87,111,114,108,100
 Hello World
 ```
